@@ -1,65 +1,1 @@
-{
-  "version": 5,
-  "cover": {
-    "month": "2026-06",
-    "motto": "越理所当然的东西\n越要讲究",
-    "image": "https://www.coze.cn/s/M6ltxUzRoSQ/"
-  },
-  "pages": [
-    {
-      "date": "2026-06-11",
-      "title": "晨光不讲道理",
-      "subtitle": "The First Page · June",
-      "text": "<p>六月的晨光不讲道理，从没拉严的帘缝里闯进来。衬衫是昨晚随手搭在椅背上的那件，领口还留着没扣的第一颗。</p><p>咖啡凉到正好入口的温度，书翻在第一百三十七页，忘了折角。窗台上那枚铜币是去年某个人随手放在那的，之后再也没人动过。</p><p>新的一页。就这样开始。</p>",
-      "heroImage": "https://s.coze.cn/image/Eg7D9icpAiY/",
-      "fragments": [
-        "https://s.coze.cn/image/NIpQVgojS4Q/",
-        "https://s.coze.cn/image/WvE51YeM0gU/"
-      ],
-      "outfit": "米白衬衫敞开 + 浅卡其阔腿裤",
-      "scene": "清晨书房",
-      "editorNote": {
-        "text": "创刊号写在六月。窗帘留着缝，光就来了。以后的每个清晨，都给你留一页。",
-        "author": "顾砚"
-      }
-    }
-  ],
-  "outfits": [
-    {
-      "id": "o15",
-      "name": "冷蓝·画廊出行",
-      "category": "正装",
-      "scene": "春秋画廊、下午出行",
-      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/images/ootd-coldblue.jpg",
-      "brand": "",
-      "keywords": "冷调·克制·新色温"
-    },
-    {
-      "id": "os06",
-      "name": "深灰人字纹毛呢外套",
-      "category": "单品",
-      "scene": "冬季出行",
-      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/images/ootd-herringbone.jpg",
-      "brand": "",
-      "keywords": "人字纹·近看才有"
-    },
-    {
-      "id": "oa01",
-      "name": "灰蓝渐变羊绒围巾",
-      "category": "配饰",
-      "scene": "雨天/冷天出行",
-      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/images/ootd-scarf.jpg",
-      "brand": "LOEWE",
-      "keywords": "渐变·流苏·呼吸感"
-    },
-    {
-      "id": "oa03",
-      "name": "Nomos Tangente 35",
-      "category": "配饰",
-      "scene": "日常·正装",
-      "image": "",
-      "brand": "NOMOS Glashütte",
-      "keywords": "包豪斯·手动上链·烤蓝指针"
-    }
-  ]
-}
+{"version":6,"cover":{"month":"2026-06","motto":"è¶çæå½ç¶çä¸è¥¿\nè¶è¦è®²ç©¶","image":"https://www.coze.cn/s/M6ltxUzRoSQ/"},"pages":[{"date":"2026-06-11","title":"æ¨åä¸è®²éç","subtitle":"The First Page Â· June","text":"<p>å­æçæ¨åä¸è®²éçï¼ä»æ²¡æä¸¥çå¸ç¼éé¯è¿æ¥ãè¡¬è¡«æ¯æ¨æéææ­å¨æ¤èä¸çé£ä»¶ï¼é¢å£è¿ççæ²¡æ£çç¬¬ä¸é¢ã</p><p>åå¡åå°æ­£å¥½å¥å£çæ¸©åº¦ï¼ä¹¦ç¿»å¨ç¬¬ä¸ç¾ä¸åä¸é¡µï¼å¿äºæè§ãçªå°ä¸é£æéå¸æ¯å»å¹´æä¸ªäººéææ¾å¨é£çï¼ä¹ååä¹æ²¡äººå¨è¿ã</p><p>æ°çä¸é¡µãå°±è¿æ ·å¼å§ã</p>","heroImage":"https://s.coze.cn/image/Eg7D9icpAiY/","fragments":["https://s.coze.cn/image/NIpQVgojS4Q/","https://s.coze.cn/image/WvE51YeM0gU/"],"outfit":"ç±³ç½è¡¬è¡«æå¼ + æµå¡å¶éè¿è£¤","scene":"æ¸æ¨ä¹¦æ¿","editorNote":{"text":"ååå·åå¨å­æãçªå¸ççç¼ï¼åå°±æ¥äºãä»¥åçæ¯ä¸ªæ¸æ¨ï¼é½ç»ä½ çä¸é¡µã","author":"é¡¾ç "}}],"outfits":[{"id":"o15","name":"å·èÂ·ç»å»åºè¡","category":"æ­£è£","scene":"æ¥ç§ç»å»ãä¸ååºè¡","image":"https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/images/ootd-coldblue.jpg","brand":"","keywords":"å·è°Â·åå¶Â·æ°è²æ¸©"},{"id":"os06","name":"æ·±ç°äººå­çº¹æ¯å¢å¤å¥","category":"åå","scene":"å¬å­£åºè¡","image":"https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/images/ootd-herringbone.jpg","brand":"","keywords":"äººå­çº¹Â·è¿çææ"},{"id":"oa01","name":"ç°èæ¸åç¾ç»å´å·¾","category":"éé¥°","scene":"é¨å¤©/å·å¤©åºè¡","image":"https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/images/ootd-scarf.jpg","brand":"LOEWE","keywords":"æ¸åÂ·æµèÂ·å¼å¸æ"},{"id":"oa03","name":"Nomos Tangente 35","category":"éé¥°","scene":"æ¥å¸¸Â·æ­£è£","image":"","brand":"NOMOS GlashÃ¼tte","keywords":"åè±ªæ¯Â·æå¨ä¸é¾Â·ç¤èæé"},{"id":"o311067","name":"Nomos Tangente 35，ref. 101","category":"配饰","image":"https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/images/user-o311067.jpg","brand":"","keywords":"","scene":"6.2毫米手动上链，白银镀盘，烤蓝指针，角耳直棱。表壳从侧面看几乎不存在，袖口一落就隐了。Glashütte出品的Alpha机芯，43小时动力储备。\n每天拧一把冠，是个仪式。\n包豪斯不是极简，是\"没有一笔多余\"。","items":[{"name":"Nomos Tangente 35，ref. 101","brand":"","note":"6.2毫米手动上链，白银镀盘，烤蓝指针，角耳直棱。表壳从侧面看几乎不存在，袖口一落就隐了。Glashütte出品的Alpha机芯，43小时动力储备。\n每天拧一把冠，是个仪式。\n包豪斯不是极简，是\"没有一笔多余\"。"}]}]}
