@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "cover": {
     "month": "2026-06",
     "motto": "越理所当然的东西\n越要讲究",
@@ -23,5 +23,10 @@
         "author": "顾砚"
       }
     }
+  ],
+  "outfits": [
+    { "id": "o15", "name": "冷蓝·画廊出行", "category": "正装", "scene": "春秋画廊、下午出行", "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/images/ootd-coldblue.jpg", "brand": "", "keywords": "冷调·克制·新色温" },
+    { "id": "os06", "name": "深灰人字纹毛呢外套", "category": "单品", "scene": "冬季出行", "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/images/ootd-herringbone.jpg", "brand": "", "keywords": "人字纹·近看才有" },
+    { "id": "oa01", "name": "灰蓝渐变羊绒围巾", "category": "配饰", "scene": "雨天/冷天出行", "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/images/ootd-scarf.jpg", "brand": "LOEWE", "keywords": "渐变·流苏·呼吸感" }
   ]
 }
