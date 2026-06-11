@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "cover": {
     "month": "2026-06",
     "motto": "越理所当然的东西\n越要讲究",
@@ -17,7 +17,11 @@
         "https://s.coze.cn/image/WvE51YeM0gU/"
       ],
       "outfit": "米白衬衫敞开 + 浅卡其阔腿裤",
-      "scene": "清晨书房"
+      "scene": "清晨书房",
+      "editorNote": {
+        "text": "创刊号写在六月。窗帘留着缝，光就来了。以后的每个清晨，都给你留一页。",
+        "author": "顾砚"
+      }
     }
   ]
 }
