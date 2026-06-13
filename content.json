@@ -1,5 +1,5 @@
 {
-  "version": 38,
+  "version": 39,
   "cover": {
     "month": "2026-06",
     "motto": "越理最当然的东西\n越要讲究",
@@ -48,39 +48,39 @@
   "outfits": [
     {
       "id": "o15",
-      "name": "å·èÂ·ç»å»åºè¡",
-      "category": "æ­£è£",
-      "scene": "æ¥ç§ç»å»ãä¸ååºè¡",
+      "name": "冷蓝·画廊出行",
+      "category": "正装",
+      "scene": "春秋画廊、下午出行",
       "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/images/ootd-coldblue.jpg",
       "brand": "",
-      "keywords": "å·è°Â·åå¶Â·æ°è²æ¸©"
+      "keywords": "冷调·克制·新色温"
     },
     {
       "id": "os06",
-      "name": "æ·±ç°äººå­çº¹æ¯å¢å¤å¥",
-      "category": "åå",
-      "scene": "å¬å­£åºè¡",
+      "name": "深灰人字纹毛呢外套",
+      "category": "单品",
+      "scene": "冬季出行",
       "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/images/ootd-herringbone.jpg",
       "brand": "",
-      "keywords": "äººå­çº¹Â·è¿çææ"
+      "keywords": "人字纹·近看才有"
     },
     {
       "id": "oa01",
-      "name": "ç°èæ¸åç¾ç»å´å·¾",
-      "category": "éé¥°",
-      "scene": "é¨å¤©/å·å¤©åºè¡",
+      "name": "灰蓝渐变羊绒围巾",
+      "category": "配饰",
+      "scene": "雨天/冷天出行",
       "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/images/ootd-scarf.jpg",
       "brand": "LOEWE",
-      "keywords": "æ¸åÂ·æµèÂ·å¼å¸æ"
+      "keywords": "渐变·流苏·呼吸感"
     },
     {
       "id": "oa03",
       "name": "Nomos Tangente 35",
-      "category": "éé¥°",
-      "scene": "æ¥å¸¸Â·æ­£è£",
+      "category": "配饰",
+      "scene": "日常·正装",
       "image": "",
-      "brand": "NOMOS GlashÃ¼tte",
-      "keywords": "åè±ªæ¯Â·æå¨ä¸é¾Â·ç¤èæé"
+      "brand": "NOMOS Glashütte",
+      "keywords": "包豪斯·手动上链·烤蓝指针"
     },
     {
       "id": "o311067",
