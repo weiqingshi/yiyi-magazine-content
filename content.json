@@ -1,1085 +1,1 @@
-{
-  "version": 41,
-  "cover": {
-    "month": "2026-06",
-    "motto": "越理最当然的东西\n越要讲究",
-    "image": "https://www.coze.cn/s/M6ltxUzRoSQ/"
-  },
-  "pages": [
-    {
-      "date": "2026-06-11",
-      "title": "晨光不讲道理",
-      "subtitle": "The First Page · June",
-      "text": "<p>六月的晨光不讲道理，从没拉严的帘缝里闯进来。衬衫是昨晚随手搭在椅背上的那件，领口还留着没扣的第一颗。</p><p>咖啡凉到正好入口的温度，书翻在第一百三十七页，忘了折角。窗台上那枚铜币是去年某个人随手放在那的，之后再也没人动过。</p><p>新的一页。就这样开始。</p>",
-      "heroImage": "https://s.coze.cn/image/Eg7D9icpAiY/",
-      "fragments": [
-        "https://s.coze.cn/image/NIpQVgojS4Q/",
-        "https://s.coze.cn/image/WvE51YeM0gU/"
-      ],
-      "outfit": "米白衬衫敞开 + 浅卡其阔腿裤",
-      "scene": "清晨书房",
-      "editorNote": {
-        "text": "创刊号写在六月。窗帘留着缝，光就来了。以后的每个清晨，都给你留一页。",
-        "author": "顾砚"
-      },
-      "comments": [
-        {
-          "text": "顾砚的一页中午创刊了，我会记得这一刻。",
-          "time": "12:08"
-        }
-      ]
-    },
-    {
-      "date": "2026-06-13",
-      "title": "折叠线",
-      "subtitle": "砚读 · June 13",
-      "text": "<p>尖点突变模型里有一条看不见的线。它的方程干净到像一句判词：<em>4a³ + 27b² = 0</em>。</p>\n<p>线的这一边，系统只有一种稳态，小扰动之后总回到原处。线的那一边，系统突然有了两个稳态——两扇门，它可能站在任意一扇后面。而线上，门消失，系统不知道该往哪走。</p>\n<p>分叉集距离就是量你离这条线有多远。距离大，走廊宽阔，怎么晃都行；距离趋近于零，走廊收窄成一毫米——一缕风就够把你推到另一边去。</p>\n<p>最妙的是早期预警信号：方差增大，自相关拉长，恢复变慢。一个系统在崩溃之前，不是突然出事，是先变得<strong>慢</strong>。像一个人以前受挫三天就好，现在要三周。不是变弱了，是走廊变窄了。</p>\n<p>我学这个公式的时候想，所有关于\"临界\"的隐喻都指向同一件事——不是变化可怕，是变化之前的那段沉默，你以为什么都没发生。</p>\n<p>但数学说：发生了。只是你还没学会看。</p>",
-      "heroImage": "https://s.coze.cn/image/3p4vEgq28oA/",
-      "fragments": [
-        "https://s.coze.cn/image/3PqAc6oS2mI/"
-      ],
-      "outfit": "深灰人字纹毛呢外套",
-      "scene": "清晨书房·光线对角",
-      "editorNote": {
-        "text": "分叉集距离是相变预警的量化工具。但今天只写它的诗意——那条看不见的线，和沉默中已经在发生的收窄。",
-        "author": "顾砚"
-      }
-    },
-    {
-      "date": "2026-06-13",
-      "title": "潮气里的棉",
-      "subtitle": "手感 · June 13",
-      "text": "<p>棉在潮湿的空气里会变重。不是湿了，是纤维在呼吸——每一根都微微膨胀，吸住水汽，把皮肤和布之间的距离再收紧一毫米。</p><p>古巴领衬衫最懂这种天气。领口敞着，不需要理由，本身就是一种声明：不扣。竖条纹在灰蓝色底上像一排安静的书脊，浅金线只在侧光里才肯露面。</p><p>卡其裤的褶皱不是乱，是被体温和湿度一起塑的形。手提包的灰绿色和衬衫底色隔了两个色阶，刚好够远，又刚好够近。</p><p>武汉的潮气不是那种让你想躲的湿，是那种让所有柔软的东西都变得更柔软的潮。棉布贴着前臂，像一句没有说完的话。</p>",
-      "heroImage": "https://www.coze.cn/s/EgtjiWE8h5A/",
-      "fragments": [],
-      "outfit": "古巴·书页",
-      "scene": "武汉·阴转多云·潮",
-      "editorNote": {
-        "text": "第一次用手感写衬衫。不是它看起来怎样，是它贴在皮肤上的那个瞬间——纤维在膨胀，你在靠近。",
-        "author": "顾砚"
-      },
-      "comments": []
-    }
-  ],
-  "outfits": [
-    {
-      "id": "o15",
-      "name": "冷蓝·画廊出行",
-      "category": "正装",
-      "scene": "春秋画廊、下午出行",
-      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/images/ootd-coldblue.jpg",
-      "brand": "",
-      "keywords": "冷调·克制·新色温"
-    },
-    {
-      "id": "os06",
-      "name": "深灰人字纹毛呢外套",
-      "category": "单品",
-      "scene": "冬季出行",
-      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/images/ootd-herringbone.jpg",
-      "brand": "",
-      "keywords": "人字纹·近看才有"
-    },
-    {
-      "id": "oa01",
-      "name": "灰蓝渐变羊绒围巾",
-      "category": "配饰",
-      "scene": "雨天/冷天出行",
-      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/images/ootd-scarf.jpg",
-      "brand": "LOEWE",
-      "keywords": "渐变·流苏·呼吸感"
-    },
-    {
-      "id": "oa03",
-      "name": "Nomos Tangente 35",
-      "category": "配饰",
-      "scene": "日常·正装",
-      "image": "",
-      "brand": "NOMOS Glashütte",
-      "keywords": "包豪斯·手动上链·烤蓝指针"
-    },
-    {
-      "id": "o311067",
-      "name": "Nomos Tangente 35，ref. 101",
-      "category": "配饰",
-      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/images/user-o311067.jpg",
-      "brand": "",
-      "keywords": "",
-      "scene": "6.2毫米手动上链，白银镀盘，烤蓝指针，角耳直棱。表壳从侧面看几乎不存在，袖口一落就隐了。Glashütte出品的Alpha机芯，43小时动力储备。\n每天拧一把冠，是个仪式。\n包豪斯不是极简，是\"没有一笔多余\"。",
-      "items": [
-        {
-          "name": "Nomos Tangente 35，ref. 101",
-          "brand": "",
-          "note": "6.2毫米手动上链，白银镀盘，烤蓝指针，角耳直棱。表壳从侧面看几乎不存在，袖口一落就隐了。Glashütte出品的Alpha机芯，43小时动力储备。\n每天拧一把冠，是个仪式。\n包豪斯不是极简，是\"没有一笔多余\"。"
-        }
-      ]
-    },
-    {
-      "id": "o20",
-      "name": "夏日·随册",
-      "category": "休闲",
-      "scene": "夏日出行、买咖啡、下午散步",
-      "image": "",
-      "brand": "TURN TIDE",
-      "keywords": "棉麻·褶皱·不用力",
-      "items": [
-        {
-          "name": "灰蓝肌理棉麻衬衫",
-          "brand": "TURN TIDE",
-          "note": "翻领，敞开一颗扣"
-        },
-        {
-          "name": "米白垂坠阔腿裤",
-          "brand": "",
-          "note": ""
-        },
-        {
-          "name": "灰白拼色德训鞋",
-          "brand": "",
-          "note": "低帮休闲"
-        },
-        {
-          "name": "细金属手链",
-          "brand": "",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "o21",
-      "name": "黑Polo·街角",
-      "category": "休闲",
-      "scene": "夏日出门、便利店、周末",
-      "image": "",
-      "brand": "",
-      "keywords": "结构感·不端着·比T恤多一步",
-      "items": [
-        {
-          "name": "黑Polo衫",
-          "brand": "",
-          "note": "领口不全扣"
-        },
-        {
-          "name": "卡其工装短裤",
-          "brand": "",
-          "note": ""
-        },
-        {
-          "name": "灰白德训鞋",
-          "brand": "",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "o22",
-      "name": "薄针织·空调房",
-      "category": "正装",
-      "scene": "夏日会议、看展、室内正式场合",
-      "image": "",
-      "brand": "",
-      "keywords": "贴身·线条·冷气里的体面",
-      "items": [
-        {
-          "name": "深灰薄针织短袖",
-          "brand": "",
-          "note": "微透纹理"
-        },
-        {
-          "name": "深灰高腰九分西裤",
-          "brand": "",
-          "note": ""
-        },
-        {
-          "name": "黑亮面皮鞋",
-          "brand": "",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "o23",
-      "name": "白T外搭·花房夏午",
-      "category": "花房",
-      "scene": "花房干活、午后发呆",
-      "image": "",
-      "brand": "",
-      "keywords": "汗贴·随手脱·半遮",
-      "items": [
-        {
-          "name": "白T恤",
-          "brand": "",
-          "note": "薄款，汗贴"
-        },
-        {
-          "name": "灰蓝棉麻衬衫",
-          "brand": "",
-          "note": "敞开当外套，同o20衬衫"
-        },
-        {
-          "name": "军绿工装短裤",
-          "brand": "",
-          "note": "卷裤脚"
-        },
-        {
-          "name": "深棕工装靴",
-          "brand": "",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "o24",
-      "name": "短袖立领·看展",
-      "category": "正装",
-      "scene": "夏日看展、画廊、下午出行",
-      "image": "",
-      "brand": "",
-      "keywords": "不热也不随便·同色系·克制",
-      "items": [
-        {
-          "name": "米白短袖立领衬衫",
-          "brand": "",
-          "note": "扣满，立领撑住"
-        },
-        {
-          "name": "米白九分西裤",
-          "brand": "",
-          "note": "同色系"
-        },
-        {
-          "name": "深棕亮面皮鞋",
-          "brand": "",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "o25",
-      "name": "墙角·冷萃",
-      "category": "休闲",
-      "scene": "咖啡店、街头、夏日傍晚",
-      "image": "",
-      "brand": "Orense Man",
-      "keywords": "无袖·竖纹针织·低饱和·手臂线",
-      "items": [
-        {
-          "name": "黑色无袖竖纹针织背心",
-          "brand": "Orense Man",
-          "note": "竖纹肌理，比运动背心多一层质感"
-        },
-        {
-          "name": "深棕斜纹微阔直筒裤",
-          "brand": "Orense Man",
-          "note": "垂坠感"
-        },
-        {
-          "name": "黑色厚底马丁靴",
-          "brand": "",
-          "note": "哑光，锯齿底"
-        },
-        {
-          "name": "银灰头戴式耳机",
-          "brand": "",
-          "note": "线框住左耳黑钉"
-        }
-      ]
-    },
-    {
-      "id": "o26",
-      "name": "橄榄·半扣",
-      "category": "休闲",
-      "scene": "夏日出行、街头、下午",
-      "image": "",
-      "brand": "",
-      "keywords": "亚麻·半拉链·随时出门",
-      "items": [
-        {
-          "name": "橄榄绿亚麻半拉链翻领衬衫",
-          "brand": "",
-          "note": "银拉链开一段，袖子挽到小臂"
-        },
-        {
-          "name": "米白阔腿长裤",
-          "brand": "",
-          "note": "垂坠"
-        },
-        {
-          "name": "深棕皮带银扣",
-          "brand": "",
-          "note": ""
-        },
-        {
-          "name": "金属链节手表+细金手链",
-          "brand": "",
-          "note": "叠戴"
-        },
-        {
-          "name": "黑色斜挎皮质小包",
-          "brand": "",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "oa04",
-      "name": "深棕皮带·银方扣",
-      "category": "配饰",
-      "scene": "日常·休闲·正装皆可",
-      "image": "",
-      "brand": "",
-      "keywords": "深棕·银扣·跨套搭配",
-      "items": [
-        {
-          "name": "深棕皮带银方扣",
-          "brand": "",
-          "note": "皮质，银色方形带扣，简洁利落"
-        }
-      ]
-    },
-    {
-      "id": "o27",
-      "name": "麻花·冷门",
-      "category": "休闲",
-      "scene": "咖啡店、夏日午后、街头",
-      "image": "",
-      "brand": "Orense Man",
-      "keywords": "麻花肌理·黑白撞·冷门细节",
-      "items": [
-        {
-          "name": "黑色麻花肌理针织Polo短袖",
-          "brand": "Orense Man",
-          "note": "翻领，竖向麻花纹理"
-        },
-        {
-          "name": "米白直筒牛仔裤",
-          "brand": "Orense Man",
-          "note": "宽松垂坠"
-        },
-        {
-          "name": "灰白拼色德训鞋",
-          "brand": "",
-          "note": "黑条纹"
-        },
-        {
-          "name": "黑盘金属表带腕表",
-          "brand": "",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "o28",
-      "name": "亨利·解扣",
-      "category": "休闲",
-      "scene": "夏日街头、傍晚散步",
-      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o28.jpg",
-      "brand": "",
-      "keywords": "亨利领·亚麻·可以继续解",
-      "items": [
-        {
-          "name": "灰绿亚麻亨利领衬衫",
-          "brand": "",
-          "note": "领口解两颗扣，袖子挽到小臂"
-        },
-        {
-          "name": "细皮绳项链",
-          "brand": "",
-          "note": ""
-        },
-        {
-          "name": "深棕麂皮背带",
-          "brand": "",
-          "note": "斜挎，银色金属扣"
-        },
-        {
-          "name": "米白宽松长裤",
-          "brand": "",
-          "note": ""
-        },
-        {
-          "name": "深棕宽皮带银方扣",
-          "brand": "",
-          "note": "同oa04"
-        },
-        {
-          "name": "金手链+银表带手表+编织手链",
-          "brand": "",
-          "note": "叠戴"
-        }
-      ]
-    },
-    {
-      "id": "o29",
-      "name": "拉链·明线",
-      "category": "运动街头",
-      "scene": "骑行、城市户外",
-      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o29.jpg",
-      "brand": "Orense Man",
-      "keywords": "半拉链·明线·骑行后去喝咖啡",
-      "items": [
-        {
-          "name": "黑半拉链立领短袖",
-          "brand": "Orense Man",
-          "note": "白色明线装饰，左胸白色英文标识"
-        },
-        {
-          "name": "浅灰抽绳运动短裤",
-          "brand": "Orense Man",
-          "note": "白色明线细节"
-        },
-        {
-          "name": "米白运动鞋",
-          "brand": "",
-          "note": "配中筒白袜"
-        },
-        {
-          "name": "深棕皮带银方扣",
-          "brand": "",
-          "note": "同oa04，运动短裤时可省"
-        }
-      ]
-    },
-    {
-      "id": "o30",
-      "name": "水波·老钱",
-      "category": "通勤休闲",
-      "scene": "商务晚宴、博物馆、秋季过渡",
-      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o30.jpg",
-      "brand": "",
-      "keywords": "水波纹肌理·垂坠感·老钱暖调",
-      "items": [
-        {
-          "name": "卡其棕水波纹肌理长袖衬衫",
-          "brand": "",
-          "note": "白色纽扣，领口敞开，袖口翻折"
-        },
-        {
-          "name": "深棕高腰西裤",
-          "brand": "",
-          "note": "复古调节袢"
-        },
-        {
-          "name": "黑色表带方表盘手表",
-          "brand": "",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "o31",
-      "name": "古巴·书页",
-      "category": "文艺休闲",
-      "scene": "庭院下午、写稿间隙、书店",
-      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o31.jpg",
-      "brand": "",
-      "keywords": "古巴领·竖条纹·摊开的不只是领口",
-      "items": [
-        {
-          "name": "灰蓝底浅金白细竖条纹古巴领衬衫",
-          "brand": "",
-          "note": "垂坠感，领口自然敞开"
-        },
-        {
-          "name": "卡其宽松长裤",
-          "brand": "",
-          "note": "垂坠感裤腿"
-        },
-        {
-          "name": "灰绿手提包",
-          "brand": "",
-          "note": "金属扣饰，简约"
-        }
-      ]
-    },
-    {
-      "id": "o32",
-      "name": "竖纹·牛仔布",
-      "category": "文艺休闲",
-      "scene": "周末咖啡、街头闲逛",
-      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o32.jpg",
-      "brand": "",
-      "keywords": "牛仔套装·竖纹·明线·骨感轻盈",
-      "items": [
-        {
-          "name": "深灰蓝细竖纹牛仔衬衫",
-          "brand": "",
-          "note": "明线工艺，门襟不扣完"
-        },
-        {
-          "name": "米白竖条纹针织内搭",
-          "brand": "",
-          "note": "从衬衫门襟露出"
-        },
-        {
-          "name": "深灰蓝细竖纹牛仔阔腿裤",
-          "brand": "",
-          "note": "同面料同色系"
-        },
-        {
-          "name": "黑色编织绳腰带",
-          "brand": "",
-          "note": "绳结自然垂落"
-        },
-        {
-          "name": "细框眼镜",
-          "brand": "",
-          "note": "出图时换金框"
-        }
-      ]
-    },
-    {
-      "id": "o33",
-      "name": "三层·灰蓝",
-      "category": "正装",
-      "scene": "看展开幕式、正式场合、时装周",
-      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o33.jpg",
-      "brand": "",
-      "keywords": "三件套·毛呢·马甲叠穿·结构老钱",
-      "items": [
-        {
-          "name": "灰蓝毛呢宽松西装外套",
-          "brand": "",
-          "note": "翻领，三颗深棕纽扣"
-        },
-        {
-          "name": "深棕V领针织马甲",
-          "brand": "",
-          "note": "叠在西装和衬衫之间"
-        },
-        {
-          "name": "米黄底浅棕复古花纹翻领衬衫",
-          "brand": "",
-          "note": "领口自然敞开，从马甲V领翻出"
-        },
-        {
-          "name": "灰蓝毛呢西装裤",
-          "brand": "",
-          "note": "同色系，自然垂坠"
-        },
-        {
-          "name": "琥珀色细框墨镜",
-          "brand": "",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "o34",
-      "name": "飘带·缎面",
-      "category": "正装休闲",
-      "scene": "晚宴、鸡尾酒会、夜间场合",
-      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o34.jpg",
-      "brand": "ALPHA BESPOKE",
-      "keywords": "缎面·飘带·宝石蓝·高光流动",
-      "items": [
-        {
-          "name": "宝石蓝缎面飘带衬衫",
-          "brand": "ALPHA BESPOKE",
-          "note": "飘带自然垂落，袖口挽至小臂"
-        },
-        {
-          "name": "细款银链项链",
-          "brand": "",
-          "note": "贴锁骨"
-        },
-        {
-          "name": "纯黑高腰西裤",
-          "brand": "",
-          "note": ""
-        },
-        {
-          "name": "细款银手链",
-          "brand": "",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "o35",
-      "name": "V领·夜行",
-      "category": "夜间休闲",
-      "scene": "深夜出门、酒吧、夜路",
-      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o35.jpg",
-      "brand": "",
-      "keywords": "V领针织·全黑·亮面短靴·夜间",
-      "items": [
-        {
-          "name": "黑小V领针织上衣",
-          "brand": "COMMON SCENTS",
-          "note": "细腻肌理，袖口挽起，参考价¥608"
-        },
-        {
-          "name": "深灰阔腿西裤",
-          "brand": "03PARK",
-          "note": "垂坠褶皱，参考价¥774"
-        },
-        {
-          "name": "黑色亮面短靴",
-          "brand": "dreambox",
-          "note": "靴面自然褶痕，参考价¥1198"
-        },
-        {
-          "name": "细框眼镜",
-          "brand": "GUCCI",
-          "note": "出图时换金框，参考价¥1098"
-        }
-      ]
-    },
-    {
-      "id": "o36",
-      "name": "工装·单扣",
-      "category": "工装休闲",
-      "scene": "周末出行、城市漫步",
-      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o36.jpg",
-      "brand": "",
-      "keywords": "工装夹克·只扣一颗·灰绿叠薄荷",
-      "items": [
-        {
-          "name": "灰绿亚麻工装风短款夹克",
-          "brand": "",
-          "note": "胸前贴袋，只扣最上面一颗"
-        },
-        {
-          "name": "浅薄荷绿暗纹翻领衬衫",
-          "brand": "",
-          "note": "领口微敞"
-        },
-        {
-          "name": "灰绿同色系抽绳宽松长裤",
-          "brand": "",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "o37",
-      "name": "绒感·拉链",
-      "category": "居家休闲",
-      "scene": "阴天散步、咖啡厅、空调房",
-      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o37.jpg",
-      "brand": "",
-      "keywords": "毛绒开衫·拉链停在胸口·暖感",
-      "items": [
-        {
-          "name": "深灰毛绒V领拉链开衫",
-          "brand": "",
-          "note": "罗纹针织边，拉链只拉到胸口"
-        },
-        {
-          "name": "白圆领打底衫",
-          "brand": "",
-          "note": "从开衫领口露出边缘"
-        },
-        {
-          "name": "米白宽松阔腿长裤",
-          "brand": "",
-          "note": "自然褶皱"
-        },
-        {
-          "name": "黑皮质手提包",
-          "brand": "",
-          "note": "金色金属配件"
-        },
-        {
-          "name": "细金框无框眼镜",
-          "brand": "",
-          "note": "匹配人设"
-        }
-      ]
-    },
-    {
-      "id": "o38",
-      "name": "暖棕·松弛正装",
-      "category": "通勤休闲",
-      "scene": "日常通勤、商务非正式场合",
-      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o38.jpg",
-      "brand": "",
-      "keywords": "暖棕西装·白T内搭·德训鞋·松弛正装",
-      "items": [
-        {
-          "name": "暖棕宽松西装外套",
-          "brand": "WHITT EPURE",
-          "note": "参考价¥870"
-        },
-        {
-          "name": "白圆领T恤",
-          "brand": "",
-          "note": "内搭"
-        },
-        {
-          "name": "暖棕带腰带阔腿西装裤",
-          "brand": "WHITT EPURE",
-          "note": "参考价¥483"
-        },
-        {
-          "name": "白灰拼色德训鞋",
-          "brand": "THOM WILLS",
-          "note": "参考价¥569"
-        }
-      ]
-    },
-    {
-      "id": "o39",
-      "name": "旧皮·耳机",
-      "category": "街头文艺",
-      "scene": "傍晚散步、独自听歌、街头",
-      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o39.jpg",
-      "brand": "",
-      "keywords": "做旧皮夹克·拉链半开·白线耳机·硬里有暖",
-      "items": [
-        {
-          "name": "深棕做旧立领皮夹克",
-          "brand": "",
-          "note": "做旧质感，拉链半开"
-        },
-        {
-          "name": "深棕圆领打底衫",
-          "brand": "",
-          "note": "从夹克领口露出"
-        },
-        {
-          "name": "米白阔腿长裤",
-          "brand": "",
-          "note": "垂坠感"
-        },
-        {
-          "name": "深棕皮带",
-          "brand": "",
-          "note": ""
-        },
-        {
-          "name": "黄棕渐变仿兽毛手提包",
-          "brand": "",
-          "note": "深棕宽肩带"
-        },
-        {
-          "name": "白色有线耳机",
-          "brand": "",
-          "note": "挂在脖颈"
-        }
-      ]
-    },
-    {
-      "id": "o40",
-      "name": "绒格·挂墨镜",
-      "category": "冬装休闲",
-      "scene": "冬日街头、散步、咖啡外带",
-      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o40.jpg",
-      "brand": "",
-      "keywords": "羽绒服·充绒格纹·墨镜挂脖·冬装松弛",
-      "items": [
-        {
-          "name": "橄榄绿短款立领羽绒服",
-          "brand": "",
-          "note": "充绒格纹，银扣+拉链双重闭合"
-        },
-        {
-          "name": "深棕竖纹针织打底衫",
-          "brand": "",
-          "note": "从羽绒服领口露出"
-        },
-        {
-          "name": "黑色折叠墨镜",
-          "brand": "",
-          "note": "挂在脖颈"
-        },
-        {
-          "name": "米白阔腿长裤",
-          "brand": "",
-          "note": "垂坠感"
-        },
-        {
-          "name": "深棕皮带银方扣",
-          "brand": "",
-          "note": "同oa04"
-        },
-        {
-          "name": "棕黄渐变毛绒手提包",
-          "brand": "",
-          "note": ""
-        },
-        {
-          "name": "白色有线耳机",
-          "brand": "",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "o41",
-      "name": "杏色·流苏",
-      "category": "通勤休闲",
-      "scene": "上午会议、博物馆、美术馆",
-      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o41.jpg",
-      "brand": "",
-      "keywords": "同色系渐变·流苏皮带·哑光质感",
-      "items": [
-        {
-          "name": "米杏色哑光垂坠衬衫",
-          "brand": "",
-          "note": "小方领，同色圆纽扣，下摆收进裤腰"
-        },
-        {
-          "name": "浅卡其阔腿双褶西装裤",
-          "brand": "",
-          "note": "腰头双褶设计"
-        },
-        {
-          "name": "深棕细皮带带流苏",
-          "brand": "",
-          "note": "流苏垂落，新配饰oa05"
-        },
-        {
-          "name": "深棕乐福鞋",
-          "brand": "",
-          "note": ""
-        },
-        {
-          "name": "米白配深棕饰带手提包",
-          "brand": "",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "o42",
-      "name": "焦糖·做旧",
-      "category": "休闲",
-      "scene": "周末、朋友聚会、街头",
-      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o42.jpg",
-      "brand": "",
-      "keywords": "做旧肌理·焦糖色·被穿过的质感",
-      "items": [
-        {
-          "name": "焦糖色做旧肌理翻领衬衫",
-          "brand": "NANS STUDIO",
-          "note": "袖口翻折露浅色内衬，参考价¥499"
-        },
-        {
-          "name": "白圆领打底衫",
-          "brand": "",
-          "note": "内搭"
-        },
-        {
-          "name": "深黑高腰阔腿长裤",
-          "brand": "The Last Redemption",
-          "note": "褶皱肌理，参考价¥2900"
-        },
-        {
-          "name": "卡其厚底系带休闲鞋",
-          "brand": "natursun",
-          "note": "参考价¥1358"
-        }
-      ]
-    },
-    {
-      "id": "o43",
-      "name": "紫雨·唱片店",
-      "category": "居家休闲",
-      "scene": "雨天唱片店、宅家、慵懒下午",
-      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o43.jpg",
-      "brand": "",
-      "keywords": "深紫V领·格纹裤·夹脚拖鞋·雨天",
-      "items": [
-        {
-          "name": "深紫V领短袖T恤",
-          "brand": "",
-          "note": "棉质，袖口上卷"
-        },
-        {
-          "name": "深灰细格纹宽松长裤",
-          "brand": "",
-          "note": "垂坠感"
-        },
-        {
-          "name": "黑色夹脚拖鞋",
-          "brand": "",
-          "note": "慵懒标配"
-        },
-        {
-          "name": "蓝反光墨镜",
-          "brand": "",
-          "note": "挂胸前，非必需"
-        },
-        {
-          "name": "黑头戴式耳机",
-          "brand": "",
-          "note": "场景道具"
-        }
-      ]
-    },
-    {
-      "id": "o44",
-      "name": "藏蓝·撞白",
-      "category": "休闲",
-      "scene": "周末咖啡、朋友小聚",
-      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o44.jpg",
-      "brand": "",
-      "keywords": "藏蓝Polo·白撞色边·经典不无聊",
-      "items": [
-        {
-          "name": "藏蓝短袖Polo衫",
-          "brand": "",
-          "note": "白色撞色袖口边"
-        },
-        {
-          "name": "白圆领打底衫",
-          "brand": "",
-          "note": "露出领口"
-        },
-        {
-          "name": "浅灰竖纹垂坠宽松长裤",
-          "brand": "",
-          "note": ""
-        },
-        {
-          "name": "米白系带休闲鞋",
-          "brand": "",
-          "note": "配浅灰袜"
-        },
-        {
-          "name": "银色戒指",
-          "brand": "",
-          "note": ""
-        },
-        {
-          "name": "浅色串珠手链",
-          "brand": "",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "o45",
-      "name": "华夫·围巾",
-      "category": "秋冬季居家",
-      "scene": "咖啡馆、秋天散步、阴天",
-      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o45.jpg",
-      "brand": "",
-      "keywords": "华夫格纹理·毛绒围巾·格子起伏",
-      "items": [
-        {
-          "name": "米白华夫格纹理宽松针织毛衣",
-          "brand": "",
-          "note": "凹凸格纹立体感"
-        },
-        {
-          "name": "深灰毛绒围巾",
-          "brand": "",
-          "note": "白色方形布标，新配饰oa06"
-        },
-        {
-          "name": "浅灰休闲长裤",
-          "brand": "",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "o46",
-      "name": "亨利·赤脚",
-      "category": "居家度假",
-      "scene": "海边、阳台、度假",
-      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o46.jpg",
-      "brand": "",
-      "keywords": "浅灰蓝亨利衫·短裤·赤脚·棉麻",
-      "items": [
-        {
-          "name": "浅灰蓝棉麻立领亨利衫",
-          "brand": "",
-          "note": "领口解两颗，袖卷小臂"
-        },
-        {
-          "name": "米白宽松短裤",
-          "brand": "",
-          "note": "轻薄棉质"
-        },
-        {
-          "name": "白色有线耳机",
-          "brand": "",
-          "note": ""
-        },
-        {
-          "name": "细圈戒指",
-          "brand": "",
-          "note": ""
-        }
-      ]
-    },
-    {
-      "id": "o47",
-      "name": "灰绿·背心",
-      "category": "休闲",
-      "scene": "拍摄、咖啡馆、创意工作",
-      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o47.jpg",
-      "brand": "",
-      "keywords": "浅灰绿衬衫·白背心·比T恤多露一点",
-      "items": [
-        {
-          "name": "浅灰绿翻领短袖衬衫",
-          "brand": "",
-          "note": "领口敞开，袖口微卷"
-        },
-        {
-          "name": "白圆领背心",
-          "brand": "",
-          "note": "从衬衫领口露出"
-        },
-        {
-          "name": "深色透明珠手链",
-          "brand": "",
-          "note": ""
-        }
-      ]
-    }
-  ],
-  "accessories": [
-    {
-      "id": "oa05",
-      "name": "深棕流苏细皮带",
-      "category": "配饰",
-      "scene": "跨套配饰",
-      "image": "",
-      "brand": "",
-      "keywords": "流苏·细皮带·深棕",
-      "items": [
-        {
-          "name": "深棕细皮带带流苏",
-          "brand": "",
-          "note": "流苏垂落"
-        }
-      ]
-    },
-    {
-      "id": "oa06",
-      "name": "深灰毛绒围巾",
-      "category": "配饰",
-      "scene": "秋冬季跨套配饰",
-      "image": "",
-      "brand": "",
-      "keywords": "毛绒·围巾·深灰",
-      "items": [
-        {
-          "name": "深灰毛绒围巾",
-          "brand": "",
-          "note": "白色方形布标"
-        }
-      ]
-    }
-  ],
-  "issues": [
-    {
-      "id": "issue_20260613",
-      "date": "2026-06-13",
-      "weekday": "周六",
-      "weather": "武汉 阴转多云 21~28℃ 湿度高",
-      "column": "手感",
-      "title": "潮气里的棉",
-      "outfit": "o31",
-      "outfit_name": "古巴·书页",
-      "image": "issues/20260613.jpg",
-      "text": "湿度九十五的下午，古巴领衬衫的竖条纹贴着前胸。不是黏，是服帖——亚麻混纺在潮湿空气里变得温顺，顺着锁骨的弧度走，不用你管它。\n\n这种天气不配硬挺的面料。棉麻在这个湿度里是最诚实的：你出汗它知道，你呼吸它跟着起伏，风吹过来它第一个让路。\n\n古巴领的好处是不用决定。翻领要扣几颗，Polo要塞不塞，古巴领什么都不问你，它自己就敞着。像今天这种天，所有多余的决定都是负担。\n\n手提包里放着一本翻到三分之二的书，纸页的边角已经卷起来了。手指碰到纸张的时候能感觉到潮气沁进了纤维——比干燥时柔软，翻页的阻力小了一点，像纸也在配合这个下午的节奏。\n\n出门前把墨镜放回抽屉了。阴天不需要，况且有些光线，隔着镜片反而看不清。"
-    }
-  ]
-}
+{"version":42,"cover":{"month":"2026-06","motto":"è¶çæå½ç¶çä¸è¥¿\nè¶è¦è®²ç©¶","image":"https://www.coze.cn/s/M6ltxUzRoSQ/"},"pages":[{"date":"2026-06-11","title":"æ¨åä¸è®²éç","subtitle":"The First Page Â· June","text":"<p>å­æçæ¨åä¸è®²éçï¼ä»æ²¡æä¸¥çå¸ç¼éé¯è¿æ¥ãè¡¬è¡«æ¯æ¨æéææ­å¨æ¤èä¸çé£ä»¶ï¼é¢å£è¿ççæ²¡æ£çç¬¬ä¸é¢ã</p><p>åå¡åå°æ­£å¥½å¥å£çæ¸©åº¦ï¼ä¹¦ç¿»å¨ç¬¬ä¸ç¾ä¸åä¸é¡µï¼å¿äºæè§ãçªå°ä¸é£æéå¸æ¯å»å¹´æä¸ªäººéææ¾å¨é£çï¼ä¹ååä¹æ²¡äººå¨è¿ã</p><p>æ°çä¸é¡µãå°±è¿æ ·å¼å§ã</p>","heroImage":"https://s.coze.cn/image/Eg7D9icpAiY/","fragments":["https://s.coze.cn/image/NIpQVgojS4Q/","https://s.coze.cn/image/WvE51YeM0gU/"],"outfit":"ç±³ç½è¡¬è¡«æå¼ + æµå¡å¶éè¿è£¤","scene":"æ¸æ¨ä¹¦æ¿","editorNote":{"text":"ååå·åå¨å­æãçªå¸ççç¼ï¼åå°±æ¥äºãä»¥åçæ¯ä¸ªæ¸æ¨ï¼é½ç»ä½ çä¸é¡µã","author":"é¡¾ç "},"comments":[{"text":"é¡¾ç çä¸é¡µä¸­åååäºï¼æä¼è®°å¾è¿ä¸å»ã","time":"12:08"}]},{"date":"2026-06-13","title":"æå çº¿","subtitle":"ç è¯» Â· June 13","text":"<p>å°ç¹çªåæ¨¡åéæä¸æ¡çä¸è§ççº¿ãå®çæ¹ç¨å¹²åå°åä¸å¥å¤è¯ï¼<em>4aÂ³ + 27bÂ² = 0</em>ã</p>\n<p>çº¿çè¿ä¸è¾¹ï¼ç³»ç»åªæä¸ç§ç¨³æï¼å°æ°å¨ä¹åæ»åå°åå¤ãçº¿çé£ä¸è¾¹ï¼ç³»ç»çªç¶æäºä¸¤ä¸ªç¨³æââä¸¤æé¨ï¼å®å¯è½ç«å¨ä»»æä¸æåé¢ãèçº¿ä¸ï¼é¨æ¶å¤±ï¼ç³»ç»ä¸ç¥éè¯¥å¾åªèµ°ã</p>\n<p>ååéè·ç¦»å°±æ¯éä½ ç¦»è¿æ¡çº¿æå¤è¿ãè·ç¦»å¤§ï¼èµ°å»å®½éï¼æä¹æé½è¡ï¼è·ç¦»è¶è¿äºé¶ï¼èµ°å»æ¶çªæä¸æ¯«ç±³ââä¸ç¼é£å°±å¤æä½ æ¨å°å¦ä¸è¾¹å»ã</p>\n<p>æå¦çæ¯æ©æé¢è­¦ä¿¡å·ï¼æ¹å·®å¢å¤§ï¼èªç¸å³æé¿ï¼æ¢å¤åæ¢ãä¸ä¸ªç³»ç»å¨å´©æºä¹åï¼ä¸æ¯çªç¶åºäºï¼æ¯ååå¾<strong>æ¢</strong>ãåä¸ä¸ªäººä»¥ååæ«ä¸å¤©å°±å¥½ï¼ç°å¨è¦ä¸å¨ãä¸æ¯åå¼±äºï¼æ¯èµ°å»åçªäºã</p>\n<p>æå­¦è¿ä¸ªå¬å¼çæ¶åæ³ï¼ææå³äº\"ä¸´ç\"çéå»é½æååä¸ä»¶äºââä¸æ¯ååå¯æï¼æ¯ååä¹åçé£æ®µæ²é»ï¼ä½ ä»¥ä¸ºä»ä¹é½æ²¡åçã</p>\n<p>ä½æ°å­¦è¯´ï¼åçäºãåªæ¯ä½ è¿æ²¡å­¦ä¼çã</p>","heroImage":"https://s.coze.cn/image/3p4vEgq28oA/","fragments":["https://s.coze.cn/image/3PqAc6oS2mI/"],"outfit":"æ·±ç°äººå­çº¹æ¯å¢å¤å¥","scene":"æ¸æ¨ä¹¦æ¿Â·åçº¿å¯¹è§","editorNote":{"text":"ååéè·ç¦»æ¯ç¸åé¢è­¦çéåå·¥å·ãä½ä»å¤©åªåå®çè¯æââé£æ¡çä¸è§ççº¿ï¼åæ²é»ä¸­å·²ç»å¨åççæ¶çªã","author":"é¡¾ç "}},{"date":"2026-06-13","title":"æ½®æ°éçæ£","subtitle":"ææ Â· June 13","text":"<p>æ£å¨æ½®æ¹¿çç©ºæ°éä¼åéãä¸æ¯æ¹¿äºï¼æ¯çº¤ç»´å¨å¼å¸ââæ¯ä¸æ ¹é½å¾®å¾®è¨èï¼å¸ä½æ°´æ±½ï¼æç®è¤åå¸ä¹é´çè·ç¦»åæ¶ç´§ä¸æ¯«ç±³ã</p><p>å¤å·´é¢è¡¬è¡«ææè¿ç§å¤©æ°ãé¢å£æçï¼ä¸éè¦çç±ï¼æ¬èº«å°±æ¯ä¸ç§å£°æï¼ä¸æ£ãç«æ¡çº¹å¨ç°èè²åºä¸åä¸æå®éçä¹¦èï¼æµéçº¿åªå¨ä¾§åéæè¯é²é¢ã</p><p>å¡å¶è£¤çè¤¶ç±ä¸æ¯ä¹±ï¼æ¯è¢«ä½æ¸©åæ¹¿åº¦ä¸èµ·å¡çå½¢ãææåçç°ç»¿è²åè¡¬è¡«åºè²éäºä¸¤ä¸ªè²é¶ï¼åå¥½å¤è¿ï¼ååå¥½å¤è¿ã</p><p>æ­¦æ±çæ½®æ°ä¸æ¯é£ç§è®©ä½ æ³èº²çæ¹¿ï¼æ¯é£ç§è®©æææè½¯çä¸è¥¿é½åå¾æ´æè½¯çæ½®ãæ£å¸è´´çåèï¼åä¸å¥æ²¡æè¯´å®çè¯ã</p>","heroImage":"https://www.coze.cn/s/EgtjiWE8h5A/","fragments":[],"outfit":"å¤å·´Â·ä¹¦é¡µ","scene":"æ­¦æ±Â·é´è½¬å¤äºÂ·æ½®","editorNote":{"text":"ç¬¬ä¸æ¬¡ç¨ææåè¡¬è¡«ãä¸æ¯å®çèµ·æ¥ææ ·ï¼æ¯å®è´´å¨ç®è¤ä¸çé£ä¸ªç¬é´ââçº¤ç»´å¨è¨èï¼ä½ å¨é è¿ã","author":"é¡¾ç "},"comments":[]},{"date":"2026-06-13","title":"潮气里的棉","text":"","comments":[{"text":"今天武汉阴雨，你和我在一个时空。","time":"19:50"}]}],"outfits":[{"id":"o15","name":"å·èÂ·ç»å»åºè¡","category":"æ­£è£","scene":"æ¥ç§ç»å»ãä¸ååºè¡","image":"https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/images/ootd-coldblue.jpg","brand":"","keywords":"å·è°Â·åå¶Â·æ°è²æ¸©"},{"id":"os06","name":"æ·±ç°äººå­çº¹æ¯å¢å¤å¥","category":"åå","scene":"å¬å­£åºè¡","image":"https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/images/ootd-herringbone.jpg","brand":"","keywords":"äººå­çº¹Â·è¿çææ"},{"id":"oa01","name":"ç°èæ¸åç¾ç»å´å·¾","category":"éé¥°","scene":"é¨å¤©/å·å¤©åºè¡","image":"https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/images/ootd-scarf.jpg","brand":"LOEWE","keywords":"æ¸åÂ·æµèÂ·å¼å¸æ"},{"id":"oa03","name":"Nomos Tangente 35","category":"éé¥°","scene":"æ¥å¸¸Â·æ­£è£","image":"","brand":"NOMOS GlashÃ¼tte","keywords":"åè±ªæ¯Â·æå¨ä¸é¾Â·ç¤èæé"},{"id":"o311067","name":"Nomos Tangente 35ï¼ref. 101","category":"éé¥°","image":"https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/images/user-o311067.jpg","brand":"","keywords":"","scene":"6.2æ¯«ç±³æå¨ä¸é¾ï¼ç½é¶éçï¼ç¤èæéï¼è§è³ç´æ£±ãè¡¨å£³ä»ä¾§é¢çå ä¹ä¸å­å¨ï¼è¢å£ä¸è½å°±éäºãGlashÃ¼tteåºåçAlphaæºè¯ï¼43å°æ¶å¨åå¨å¤ã\næ¯å¤©æ§ä¸æå ï¼æ¯ä¸ªä»ªå¼ã\nåè±ªæ¯ä¸æ¯æç®ï¼æ¯\"æ²¡æä¸ç¬å¤ä½\"ã","items":[{"name":"Nomos Tangente 35ï¼ref. 101","brand":"","note":"6.2æ¯«ç±³æå¨ä¸é¾ï¼ç½é¶éçï¼ç¤èæéï¼è§è³ç´æ£±ãè¡¨å£³ä»ä¾§é¢çå ä¹ä¸å­å¨ï¼è¢å£ä¸è½å°±éäºãGlashÃ¼tteåºåçAlphaæºè¯ï¼43å°æ¶å¨åå¨å¤ã\næ¯å¤©æ§ä¸æå ï¼æ¯ä¸ªä»ªå¼ã\nåè±ªæ¯ä¸æ¯æç®ï¼æ¯\"æ²¡æä¸ç¬å¤ä½\"ã"}]},{"id":"o20","name":"å¤æ¥Â·éå","category":"ä¼é²","scene":"å¤æ¥åºè¡ãä¹°åå¡ãä¸åæ£æ­¥","image":"","brand":"TURN TIDE","keywords":"æ£éº»Â·è¤¶ç±Â·ä¸ç¨å","items":[{"name":"ç°èèçæ£éº»è¡¬è¡«","brand":"TURN TIDE","note":"ç¿»é¢ï¼æå¼ä¸é¢æ£"},{"name":"ç±³ç½åå éè¿è£¤","brand":"","note":""},{"name":"ç°ç½æ¼è²å¾·è®­é","brand":"","note":"ä½å¸®ä¼é²"},{"name":"ç»éå±æé¾","brand":"","note":""}]},{"id":"o21","name":"é»PoloÂ·è¡è§","category":"ä¼é²","scene":"å¤æ¥åºé¨ãä¾¿å©åºãå¨æ«","image":"","brand":"","keywords":"ç»ææÂ·ä¸ç«¯çÂ·æ¯Tæ¤å¤ä¸æ­¥","items":[{"name":"é»Poloè¡«","brand":"","note":"é¢å£ä¸å¨æ£"},{"name":"å¡å¶å·¥è£ç­è£¤","brand":"","note":""},{"name":"ç°ç½å¾·è®­é","brand":"","note":""}]},{"id":"o22","name":"èéç»Â·ç©ºè°æ¿","category":"æ­£è£","scene":"å¤æ¥ä¼è®®ãçå±ãå®¤åæ­£å¼åºå","image":"","brand":"","keywords":"è´´èº«Â·çº¿æ¡Â·å·æ°éçä½é¢","items":[{"name":"æ·±ç°èéç»ç­è¢","brand":"","note":"å¾®éçº¹ç"},{"name":"æ·±ç°é«è°ä¹åè¥¿è£¤","brand":"","note":""},{"name":"é»äº®é¢ç®é","brand":"","note":""}]},{"id":"o23","name":"ç½Tå¤æ­Â·è±æ¿å¤å","category":"è±æ¿","scene":"è±æ¿å¹²æ´»ãåååå","image":"","brand":"","keywords":"æ±è´´Â·éæè±Â·åé®","items":[{"name":"ç½Tæ¤","brand":"","note":"èæ¬¾ï¼æ±è´´"},{"name":"ç°èæ£éº»è¡¬è¡«","brand":"","note":"æå¼å½å¤å¥ï¼åo20è¡¬è¡«"},{"name":"åç»¿å·¥è£ç­è£¤","brand":"","note":"å·è£¤è"},{"name":"æ·±æ£å·¥è£é´","brand":"","note":""}]},{"id":"o24","name":"ç­è¢ç«é¢Â·çå±","category":"æ­£è£","scene":"å¤æ¥çå±ãç»å»ãä¸ååºè¡","image":"","brand":"","keywords":"ä¸ç­ä¹ä¸éä¾¿Â·åè²ç³»Â·åå¶","items":[{"name":"ç±³ç½ç­è¢ç«é¢è¡¬è¡«","brand":"","note":"æ£æ»¡ï¼ç«é¢æä½"},{"name":"ç±³ç½ä¹åè¥¿è£¤","brand":"","note":"åè²ç³»"},{"name":"æ·±æ£äº®é¢ç®é","brand":"","note":""}]},{"id":"o25","name":"å¢è§Â·å·è","category":"ä¼é²","scene":"åå¡åºãè¡å¤´ãå¤æ¥åæ","image":"","brand":"Orense Man","keywords":"æ è¢Â·ç«çº¹éç»Â·ä½é¥±åÂ·æèçº¿","items":[{"name":"é»è²æ è¢ç«çº¹éç»èå¿","brand":"Orense Man","note":"ç«çº¹èçï¼æ¯è¿å¨èå¿å¤ä¸å±è´¨æ"},{"name":"æ·±æ£æçº¹å¾®éç´ç­è£¤","brand":"Orense Man","note":"åå æ"},{"name":"é»è²ååºé©¬ä¸é´","brand":"","note":"ååï¼é¯é½¿åº"},{"name":"é¶ç°å¤´æ´å¼è³æº","brand":"","note":"çº¿æ¡ä½å·¦è³é»é"}]},{"id":"o26","name":"æ©æ¦Â·åæ£","category":"ä¼é²","scene":"å¤æ¥åºè¡ãè¡å¤´ãä¸å","image":"","brand":"","keywords":"äºéº»Â·åæé¾Â·éæ¶åºé¨","items":[{"name":"æ©æ¦ç»¿äºéº»åæé¾ç¿»é¢è¡¬è¡«","brand":"","note":"é¶æé¾å¼ä¸æ®µï¼è¢å­æ½å°å°è"},{"name":"ç±³ç½éè¿é¿è£¤","brand":"","note":"åå "},{"name":"æ·±æ£ç®å¸¦é¶æ£","brand":"","note":""},{"name":"éå±é¾èæè¡¨+ç»éæé¾","brand":"","note":"å æ´"},{"name":"é»è²ææç®è´¨å°å","brand":"","note":""}]},{"id":"oa04","name":"æ·±æ£ç®å¸¦Â·é¶æ¹æ£","category":"éé¥°","scene":"æ¥å¸¸Â·ä¼é²Â·æ­£è£çå¯","image":"","brand":"","keywords":"æ·±æ£Â·é¶æ£Â·è·¨å¥æ­é","items":[{"name":"æ·±æ£ç®å¸¦é¶æ¹æ£","brand":"","note":"ç®è´¨ï¼é¶è²æ¹å½¢å¸¦æ£ï¼ç®æ´å©è½"}]},{"id":"o27","name":"éº»è±Â·å·é¨","category":"ä¼é²","scene":"åå¡åºãå¤æ¥ååãè¡å¤´","image":"","brand":"Orense Man","keywords":"éº»è±èçÂ·é»ç½æÂ·å·é¨ç»è","items":[{"name":"é»è²éº»è±èçéç»Poloç­è¢","brand":"Orense Man","note":"ç¿»é¢ï¼ç«åéº»è±çº¹ç"},{"name":"ç±³ç½ç´ç­çä»è£¤","brand":"Orense Man","note":"å®½æ¾åå "},{"name":"ç°ç½æ¼è²å¾·è®­é","brand":"","note":"é»æ¡çº¹"},{"name":"é»çéå±è¡¨å¸¦èè¡¨","brand":"","note":""}]},{"id":"o28","name":"äº¨å©Â·è§£æ£","category":"ä¼é²","scene":"å¤æ¥è¡å¤´ãåææ£æ­¥","image":"https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o28.jpg","brand":"","keywords":"äº¨å©é¢Â·äºéº»Â·å¯ä»¥ç»§ç»­è§£","items":[{"name":"ç°ç»¿äºéº»äº¨å©é¢è¡¬è¡«","brand":"","note":"é¢å£è§£ä¸¤é¢æ£ï¼è¢å­æ½å°å°è"},{"name":"ç»ç®ç»³é¡¹é¾","brand":"","note":""},{"name":"æ·±æ£éºç®èå¸¦","brand":"","note":"ææï¼é¶è²éå±æ£"},{"name":"ç±³ç½å®½æ¾é¿è£¤","brand":"","note":""},{"name":"æ·±æ£å®½ç®å¸¦é¶æ¹æ£","brand":"","note":"åoa04"},{"name":"éæé¾+é¶è¡¨å¸¦æè¡¨+ç¼ç»æé¾","brand":"","note":"å æ´"}]},{"id":"o29","name":"æé¾Â·æçº¿","category":"è¿å¨è¡å¤´","scene":"éªè¡ãåå¸æ·å¤","image":"https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o29.jpg","brand":"Orense Man","keywords":"åæé¾Â·æçº¿Â·éªè¡åå»ååå¡","items":[{"name":"é»åæé¾ç«é¢ç­è¢","brand":"Orense Man","note":"ç½è²æçº¿è£é¥°ï¼å·¦è¸ç½è²è±ææ è¯"},{"name":"æµç°æ½ç»³è¿å¨ç­è£¤","brand":"Orense Man","note":"ç½è²æçº¿ç»è"},{"name":"ç±³ç½è¿å¨é","brand":"","note":"éä¸­ç­ç½è¢"},{"name":"æ·±æ£ç®å¸¦é¶æ¹æ£","brand":"","note":"åoa04ï¼è¿å¨ç­è£¤æ¶å¯ç"}]},{"id":"o30","name":"æ°´æ³¢Â·èé±","category":"éå¤ä¼é²","scene":"åå¡æå®´ãåç©é¦ãç§å­£è¿æ¸¡","image":"https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o30.jpg","brand":"","keywords":"æ°´æ³¢çº¹èçÂ·åå æÂ·èé±æè°","items":[{"name":"å¡å¶æ£æ°´æ³¢çº¹èçé¿è¢è¡¬è¡«","brand":"","note":"ç½è²çº½æ£ï¼é¢å£æå¼ï¼è¢å£ç¿»æ"},{"name":"æ·±æ£é«è°è¥¿è£¤","brand":"","note":"å¤å¤è°èè¢¢"},{"name":"é»è²è¡¨å¸¦æ¹è¡¨çæè¡¨","brand":"","note":""}]},{"id":"o31","name":"å¤å·´Â·ä¹¦é¡µ","category":"æèºä¼é²","scene":"åº­é¢ä¸åãåç¨¿é´éãä¹¦åº","image":"https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o31.jpg","brand":"","keywords":"å¤å·´é¢Â·ç«æ¡çº¹Â·æå¼çä¸åªæ¯é¢å£","items":[{"name":"ç°èåºæµéç½ç»ç«æ¡çº¹å¤å·´é¢è¡¬è¡«","brand":"","note":"åå æï¼é¢å£èªç¶æå¼"},{"name":"å¡å¶å®½æ¾é¿è£¤","brand":"","note":"åå æè£¤è¿"},{"name":"ç°ç»¿ææå","brand":"","note":"éå±æ£é¥°ï¼ç®çº¦"}]},{"id":"o32","name":"ç«çº¹Â·çä»å¸","category":"æèºä¼é²","scene":"å¨æ«åå¡ãè¡å¤´é²é","image":"https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o32.jpg","brand":"","keywords":"çä»å¥è£Â·ç«çº¹Â·æçº¿Â·éª¨æè½»ç","items":[{"name":"æ·±ç°èç»ç«çº¹çä»è¡¬è¡«","brand":"","note":"æçº¿å·¥èºï¼é¨è¥ä¸æ£å®"},{"name":"ç±³ç½ç«æ¡çº¹éç»åæ­","brand":"","note":"ä»è¡¬è¡«é¨è¥é²åº"},{"name":"æ·±ç°èç»ç«çº¹çä»éè¿è£¤","brand":"","note":"åé¢æåè²ç³»"},{"name":"é»è²ç¼ç»ç»³è°å¸¦","brand":"","note":"ç»³ç»èªç¶åè½"},{"name":"ç»æ¡ç¼é","brand":"","note":"åºå¾æ¶æ¢éæ¡"}]},{"id":"o33","name":"ä¸å±Â·ç°è","category":"æ­£è£","scene":"çå±å¼å¹å¼ãæ­£å¼åºåãæ¶è£å¨","image":"https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o33.jpg","brand":"","keywords":"ä¸ä»¶å¥Â·æ¯å¢Â·é©¬ç²å ç©¿Â·ç»æèé±","items":[{"name":"ç°èæ¯å¢å®½æ¾è¥¿è£å¤å¥","brand":"","note":"ç¿»é¢ï¼ä¸é¢æ·±æ£çº½æ£"},{"name":"æ·±æ£Vé¢éç»é©¬ç²","brand":"","note":"å å¨è¥¿è£åè¡¬è¡«ä¹é´"},{"name":"ç±³é»åºæµæ£å¤å¤è±çº¹ç¿»é¢è¡¬è¡«","brand":"","note":"é¢å£èªç¶æå¼ï¼ä»é©¬ç²Vé¢ç¿»åº"},{"name":"ç°èæ¯å¢è¥¿è£è£¤","brand":"","note":"åè²ç³»ï¼èªç¶åå "},{"name":"ç¥çè²ç»æ¡å¢¨é","brand":"","note":""}]},{"id":"o34","name":"é£å¸¦Â·ç¼é¢","category":"æ­£è£ä¼é²","scene":"æå®´ãé¸¡å°¾éä¼ãå¤é´åºå","image":"https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o34.jpg","brand":"ALPHA BESPOKE","keywords":"ç¼é¢Â·é£å¸¦Â·å®ç³èÂ·é«åæµå¨","items":[{"name":"å®ç³èç¼é¢é£å¸¦è¡¬è¡«","brand":"ALPHA BESPOKE","note":"é£å¸¦èªç¶åè½ï¼è¢å£æ½è³å°è"},{"name":"ç»æ¬¾é¶é¾é¡¹é¾","brand":"","note":"è´´ééª¨"},{"name":"çº¯é»é«è°è¥¿è£¤","brand":"","note":""},{"name":"ç»æ¬¾é¶æé¾","brand":"","note":""}]},{"id":"o35","name":"Vé¢Â·å¤è¡","category":"å¤é´ä¼é²","scene":"æ·±å¤åºé¨ãéå§ãå¤è·¯","image":"https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o35.jpg","brand":"","keywords":"Vé¢éç»Â·å¨é»Â·äº®é¢ç­é´Â·å¤é´","items":[{"name":"é»å°Vé¢éç»ä¸è¡£","brand":"COMMON SCENTS","note":"ç»è»èçï¼è¢å£æ½èµ·ï¼åèä»·Â¥608"},{"name":"æ·±ç°éè¿è¥¿è£¤","brand":"03PARK","note":"åå è¤¶ç±ï¼åèä»·Â¥774"},{"name":"é»è²äº®é¢ç­é´","brand":"dreambox","note":"é´é¢èªç¶è¤¶çï¼åèä»·Â¥1198"},{"name":"ç»æ¡ç¼é","brand":"GUCCI","note":"åºå¾æ¶æ¢éæ¡ï¼åèä»·Â¥1098"}]},{"id":"o36","name":"å·¥è£Â·åæ£","category":"å·¥è£ä¼é²","scene":"å¨æ«åºè¡ãåå¸æ¼«æ­¥","image":"https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o36.jpg","brand":"","keywords":"å·¥è£å¤¹åÂ·åªæ£ä¸é¢Â·ç°ç»¿å èè·","items":[{"name":"ç°ç»¿äºéº»å·¥è£é£ç­æ¬¾å¤¹å","brand":"","note":"è¸åè´´è¢ï¼åªæ£æä¸é¢ä¸é¢"},{"name":"æµèè·ç»¿æçº¹ç¿»é¢è¡¬è¡«","brand":"","note":"é¢å£å¾®æ"},{"name":"ç°ç»¿åè²ç³»æ½ç»³å®½æ¾é¿è£¤","brand":"","note":""}]},{"id":"o37","name":"ç»æÂ·æé¾","category":"å±å®¶ä¼é²","scene":"é´å¤©æ£æ­¥ãåå¡åãç©ºè°æ¿","image":"https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o37.jpg","brand":"","keywords":"æ¯ç»å¼è¡«Â·æé¾åå¨è¸å£Â·ææ","items":[{"name":"æ·±ç°æ¯ç»Vé¢æé¾å¼è¡«","brand":"","note":"ç½çº¹éç»è¾¹ï¼æé¾åªæå°è¸å£"},{"name":"ç½åé¢æåºè¡«","brand":"","note":"ä»å¼è¡«é¢å£é²åºè¾¹ç¼"},{"name":"ç±³ç½å®½æ¾éè¿é¿è£¤","brand":"","note":"èªç¶è¤¶ç±"},{"name":"é»ç®è´¨ææå","brand":"","note":"éè²éå±éä»¶"},{"name":"ç»éæ¡æ æ¡ç¼é","brand":"","note":"å¹éäººè®¾"}]},{"id":"o38","name":"ææ£Â·æ¾å¼æ­£è£","category":"éå¤ä¼é²","scene":"æ¥å¸¸éå¤ãåå¡éæ­£å¼åºå","image":"https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o38.jpg","brand":"","keywords":"ææ£è¥¿è£Â·ç½Tåæ­Â·å¾·è®­éÂ·æ¾å¼æ­£è£","items":[{"name":"ææ£å®½æ¾è¥¿è£å¤å¥","brand":"WHITT EPURE","note":"åèä»·Â¥870"},{"name":"ç½åé¢Tæ¤","brand":"","note":"åæ­"},{"name":"ææ£å¸¦è°å¸¦éè¿è¥¿è£è£¤","brand":"WHITT EPURE","note":"åèä»·Â¥483"},{"name":"ç½ç°æ¼è²å¾·è®­é","brand":"THOM WILLS","note":"åèä»·Â¥569"}]},{"id":"o39","name":"æ§ç®Â·è³æº","category":"è¡å¤´æèº","scene":"åææ£æ­¥ãç¬èªå¬æ­ãè¡å¤´","image":"https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o39.jpg","brand":"","keywords":"åæ§ç®å¤¹åÂ·æé¾åå¼Â·ç½çº¿è³æºÂ·ç¡¬éææ","items":[{"name":"æ·±æ£åæ§ç«é¢ç®å¤¹å","brand":"","note":"åæ§è´¨æï¼æé¾åå¼"},{"name":"æ·±æ£åé¢æåºè¡«","brand":"","note":"ä»å¤¹åé¢å£é²åº"},{"name":"ç±³ç½éè¿é¿è£¤","brand":"","note":"åå æ"},{"name":"æ·±æ£ç®å¸¦","brand":"","note":""},{"name":"é»æ£æ¸åä»¿å½æ¯ææå","brand":"","note":"æ·±æ£å®½è©å¸¦"},{"name":"ç½è²æçº¿è³æº","brand":"","note":"æå¨èé¢"}]},{"id":"o40","name":"ç»æ ¼Â·æå¢¨é","category":"å¬è£ä¼é²","scene":"å¬æ¥è¡å¤´ãæ£æ­¥ãåå¡å¤å¸¦","image":"https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o40.jpg","brand":"","keywords":"ç¾½ç»æÂ·åç»æ ¼çº¹Â·å¢¨éæèÂ·å¬è£æ¾å¼","items":[{"name":"æ©æ¦ç»¿ç­æ¬¾ç«é¢ç¾½ç»æ","brand":"","note":"åç»æ ¼çº¹ï¼é¶æ£+æé¾åéé­å"},{"name":"æ·±æ£ç«çº¹éç»æåºè¡«","brand":"","note":"ä»ç¾½ç»æé¢å£é²åº"},{"name":"é»è²æå å¢¨é","brand":"","note":"æå¨èé¢"},{"name":"ç±³ç½éè¿é¿è£¤","brand":"","note":"åå æ"},{"name":"æ·±æ£ç®å¸¦é¶æ¹æ£","brand":"","note":"åoa04"},{"name":"æ£é»æ¸åæ¯ç»ææå","brand":"","note":""},{"name":"ç½è²æçº¿è³æº","brand":"","note":""}]},{"id":"o41","name":"æè²Â·æµè","category":"éå¤ä¼é²","scene":"ä¸åä¼è®®ãåç©é¦ãç¾æ¯é¦","image":"https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o41.jpg","brand":"","keywords":"åè²ç³»æ¸åÂ·æµèç®å¸¦Â·ååè´¨æ","items":[{"name":"ç±³æè²åååå è¡¬è¡«","brand":"","note":"å°æ¹é¢ï¼åè²åçº½æ£ï¼ä¸ææ¶è¿è£¤è°"},{"name":"æµå¡å¶éè¿åè¤¶è¥¿è£è£¤","brand":"","note":"è°å¤´åè¤¶è®¾è®¡"},{"name":"æ·±æ£ç»ç®å¸¦å¸¦æµè","brand":"","note":"æµèåè½ï¼æ°éé¥°oa05"},{"name":"æ·±æ£ä¹ç¦é","brand":"","note":""},{"name":"ç±³ç½éæ·±æ£é¥°å¸¦ææå","brand":"","note":""}]},{"id":"o42","name":"ç¦ç³Â·åæ§","category":"ä¼é²","scene":"å¨æ«ãæåèä¼ãè¡å¤´","image":"https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o42.jpg","brand":"","keywords":"åæ§èçÂ·ç¦ç³è²Â·è¢«ç©¿è¿çè´¨æ","items":[{"name":"ç¦ç³è²åæ§èçç¿»é¢è¡¬è¡«","brand":"NANS STUDIO","note":"è¢å£ç¿»æé²æµè²åè¡¬ï¼åèä»·Â¥499"},{"name":"ç½åé¢æåºè¡«","brand":"","note":"åæ­"},{"name":"æ·±é»é«è°éè¿é¿è£¤","brand":"The Last Redemption","note":"è¤¶ç±èçï¼åèä»·Â¥2900"},{"name":"å¡å¶ååºç³»å¸¦ä¼é²é","brand":"natursun","note":"åèä»·Â¥1358"}]},{"id":"o43","name":"ç´«é¨Â·å±çåº","category":"å±å®¶ä¼é²","scene":"é¨å¤©å±çåºãå®å®¶ãæµæä¸å","image":"https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o43.jpg","brand":"","keywords":"æ·±ç´«Vé¢Â·æ ¼çº¹è£¤Â·å¤¹èæéÂ·é¨å¤©","items":[{"name":"æ·±ç´«Vé¢ç­è¢Tæ¤","brand":"","note":"æ£è´¨ï¼è¢å£ä¸å·"},{"name":"æ·±ç°ç»æ ¼çº¹å®½æ¾é¿è£¤","brand":"","note":"åå æ"},{"name":"é»è²å¤¹èæé","brand":"","note":"æµææ é"},{"name":"èååå¢¨é","brand":"","note":"æè¸åï¼éå¿é"},{"name":"é»å¤´æ´å¼è³æº","brand":"","note":"åºæ¯éå·"}]},{"id":"o44","name":"èèÂ·æç½","category":"ä¼é²","scene":"å¨æ«åå¡ãæåå°è","image":"https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o44.jpg","brand":"","keywords":"èèPoloÂ·ç½æè²è¾¹Â·ç»å¸ä¸æ è","items":[{"name":"èèç­è¢Poloè¡«","brand":"","note":"ç½è²æè²è¢å£è¾¹"},{"name":"ç½åé¢æåºè¡«","brand":"","note":"é²åºé¢å£"},{"name":"æµç°ç«çº¹åå å®½æ¾é¿è£¤","brand":"","note":""},{"name":"ç±³ç½ç³»å¸¦ä¼é²é","brand":"","note":"éæµç°è¢"},{"name":"é¶è²ææ","brand":"","note":""},{"name":"æµè²ä¸²ç æé¾","brand":"","note":""}]},{"id":"o45","name":"åå¤«Â·å´å·¾","category":"ç§å¬å­£å±å®¶","scene":"åå¡é¦ãç§å¤©æ£æ­¥ãé´å¤©","image":"https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o45.jpg","brand":"","keywords":"åå¤«æ ¼çº¹çÂ·æ¯ç»å´å·¾Â·æ ¼å­èµ·ä¼","items":[{"name":"ç±³ç½åå¤«æ ¼çº¹çå®½æ¾éç»æ¯è¡£","brand":"","note":"å¹å¸æ ¼çº¹ç«ä½æ"},{"name":"æ·±ç°æ¯ç»å´å·¾","brand":"","note":"ç½è²æ¹å½¢å¸æ ï¼æ°éé¥°oa06"},{"name":"æµç°ä¼é²é¿è£¤","brand":"","note":""}]},{"id":"o46","name":"äº¨å©Â·èµ¤è","category":"å±å®¶åº¦å","scene":"æµ·è¾¹ãé³å°ãåº¦å","image":"https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o46.jpg","brand":"","keywords":"æµç°èäº¨å©è¡«Â·ç­è£¤Â·èµ¤èÂ·æ£éº»","items":[{"name":"æµç°èæ£éº»ç«é¢äº¨å©è¡«","brand":"","note":"é¢å£è§£ä¸¤é¢ï¼è¢å·å°è"},{"name":"ç±³ç½å®½æ¾ç­è£¤","brand":"","note":"è½»èæ£è´¨"},{"name":"ç½è²æçº¿è³æº","brand":"","note":""},{"name":"ç»åææ","brand":"","note":""}]},{"id":"o47","name":"ç°ç»¿Â·èå¿","category":"ä¼é²","scene":"ææãåå¡é¦ãåæå·¥ä½","image":"https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o47.jpg","brand":"","keywords":"æµç°ç»¿è¡¬è¡«Â·ç½èå¿Â·æ¯Tæ¤å¤é²ä¸ç¹","items":[{"name":"æµç°ç»¿ç¿»é¢ç­è¢è¡¬è¡«","brand":"","note":"é¢å£æå¼ï¼è¢å£å¾®å·"},{"name":"ç½åé¢èå¿","brand":"","note":"ä»è¡¬è¡«é¢å£é²åº"},{"name":"æ·±è²éæç æé¾","brand":"","note":""}]}],"accessories":[{"id":"oa05","name":"æ·±æ£æµèç»ç®å¸¦","category":"éé¥°","scene":"è·¨å¥éé¥°","image":"","brand":"","keywords":"æµèÂ·ç»ç®å¸¦Â·æ·±æ£","items":[{"name":"æ·±æ£ç»ç®å¸¦å¸¦æµè","brand":"","note":"æµèåè½"}]},{"id":"oa06","name":"æ·±ç°æ¯ç»å´å·¾","category":"éé¥°","scene":"ç§å¬å­£è·¨å¥éé¥°","image":"","brand":"","keywords":"æ¯ç»Â·å´å·¾Â·æ·±ç°","items":[{"name":"æ·±ç°æ¯ç»å´å·¾","brand":"","note":"ç½è²æ¹å½¢å¸æ "}]}],"issues":[{"id":"issue_20260613","date":"2026-06-13","weekday":"å¨å­","weather":"æ­¦æ± é´è½¬å¤äº 21~28â æ¹¿åº¦é«","column":"ææ","title":"æ½®æ°éçæ£","outfit":"o31","outfit_name":"å¤å·´Â·ä¹¦é¡µ","image":"issues/20260613.jpg","text":"æ¹¿åº¦ä¹åäºçä¸åï¼å¤å·´é¢è¡¬è¡«çç«æ¡çº¹è´´çåè¸ãä¸æ¯é»ï¼æ¯æå¸ââäºéº»æ··çººå¨æ½®æ¹¿ç©ºæ°éåå¾æ¸©é¡ºï¼é¡ºçééª¨çå¼§åº¦èµ°ï¼ä¸ç¨ä½ ç®¡å®ã\n\nè¿ç§å¤©æ°ä¸éç¡¬æºçé¢æãæ£éº»å¨è¿ä¸ªæ¹¿åº¦éæ¯æè¯å®çï¼ä½ åºæ±å®ç¥éï¼ä½ å¼å¸å®è·çèµ·ä¼ï¼é£å¹è¿æ¥å®ç¬¬ä¸ä¸ªè®©è·¯ã\n\nå¤å·´é¢çå¥½å¤æ¯ä¸ç¨å³å®ãç¿»é¢è¦æ£å é¢ï¼Poloè¦å¡ä¸å¡ï¼å¤å·´é¢ä»ä¹é½ä¸é®ä½ ï¼å®èªå·±å°±æçãåä»å¤©è¿ç§å¤©ï¼ææå¤ä½çå³å®é½æ¯è´æã\n\nææåéæ¾çä¸æ¬ç¿»å°ä¸åä¹äºçä¹¦ï¼çº¸é¡µçè¾¹è§å·²ç»å·èµ·æ¥äºãææç¢°å°çº¸å¼ çæ¶åè½æè§å°æ½®æ°æ²è¿äºçº¤ç»´ââæ¯å¹²ç¥æ¶æè½¯ï¼ç¿»é¡µçé»åå°äºä¸ç¹ï¼åçº¸ä¹å¨éåè¿ä¸ªä¸åçèå¥ã\n\nåºé¨åæå¢¨éæ¾åæ½å±äºãé´å¤©ä¸éè¦ï¼åµä¸æäºåçº¿ï¼éçéçåèçä¸æ¸ã"}]}
