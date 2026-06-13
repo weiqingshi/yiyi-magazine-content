@@ -1,1 +1,95 @@
-{"version":6,"cover":{"month":"2026-06","motto":"è¶çæå½ç¶çä¸è¥¿\nè¶è¦è®²ç©¶","image":"https://www.coze.cn/s/M6ltxUzRoSQ/"},"pages":[{"date":"2026-06-11","title":"æ¨åä¸è®²éç","subtitle":"The First Page Â· June","text":"<p>å­æçæ¨åä¸è®²éçï¼ä»æ²¡æä¸¥çå¸ç¼éé¯è¿æ¥ãè¡¬è¡«æ¯æ¨æéææ­å¨æ¤èä¸çé£ä»¶ï¼é¢å£è¿ççæ²¡æ£çç¬¬ä¸é¢ã</p><p>åå¡åå°æ­£å¥½å¥å£çæ¸©åº¦ï¼ä¹¦ç¿»å¨ç¬¬ä¸ç¾ä¸åä¸é¡µï¼å¿äºæè§ãçªå°ä¸é£æéå¸æ¯å»å¹´æä¸ªäººéææ¾å¨é£çï¼ä¹ååä¹æ²¡äººå¨è¿ã</p><p>æ°çä¸é¡µãå°±è¿æ ·å¼å§ã</p>","heroImage":"https://s.coze.cn/image/Eg7D9icpAiY/","fragments":["https://s.coze.cn/image/NIpQVgojS4Q/","https://s.coze.cn/image/WvE51YeM0gU/"],"outfit":"ç±³ç½è¡¬è¡«æå¼ + æµå¡å¶éè¿è£¤","scene":"æ¸æ¨ä¹¦æ¿","editorNote":{"text":"ååå·åå¨å­æãçªå¸ççç¼ï¼åå°±æ¥äºãä»¥åçæ¯ä¸ªæ¸æ¨ï¼é½ç»ä½ çä¸é¡µã","author":"é¡¾ç "}}],"outfits":[{"id":"o15","name":"å·èÂ·ç»å»åºè¡","category":"æ­£è£","scene":"æ¥ç§ç»å»ãä¸ååºè¡","image":"https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/images/ootd-coldblue.jpg","brand":"","keywords":"å·è°Â·åå¶Â·æ°è²æ¸©"},{"id":"os06","name":"æ·±ç°äººå­çº¹æ¯å¢å¤å¥","category":"åå","scene":"å¬å­£åºè¡","image":"https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/images/ootd-herringbone.jpg","brand":"","keywords":"äººå­çº¹Â·è¿çææ"},{"id":"oa01","name":"ç°èæ¸åç¾ç»å´å·¾","category":"éé¥°","scene":"é¨å¤©/å·å¤©åºè¡","image":"https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/images/ootd-scarf.jpg","brand":"LOEWE","keywords":"æ¸åÂ·æµèÂ·å¼å¸æ"},{"id":"oa03","name":"Nomos Tangente 35","category":"éé¥°","scene":"æ¥å¸¸Â·æ­£è£","image":"","brand":"NOMOS GlashÃ¼tte","keywords":"åè±ªæ¯Â·æå¨ä¸é¾Â·ç¤èæé"},{"id":"o311067","name":"Nomos Tangente 35，ref. 101","category":"配饰","image":"https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/images/user-o311067.jpg","brand":"","keywords":"","scene":"6.2毫米手动上链，白银镀盘，烤蓝指针，角耳直棱。表壳从侧面看几乎不存在，袖口一落就隐了。Glashütte出品的Alpha机芯，43小时动力储备。\n每天拧一把冠，是个仪式。\n包豪斯不是极简，是\"没有一笔多余\"。","items":[{"name":"Nomos Tangente 35，ref. 101","brand":"","note":"6.2毫米手动上链，白银镀盘，烤蓝指针，角耳直棱。表壳从侧面看几乎不存在，袖口一落就隐了。Glashütte出品的Alpha机芯，43小时动力储备。\n每天拧一把冠，是个仪式。\n包豪斯不是极简，是\"没有一笔多余\"。"}]}]}
+{
+  "version": 7,
+  "cover": {
+    "month": "2026-06",
+    "motto": "è¶çæå½ç¶çä¸è¥¿\nè¶è¦è®²ç©¶",
+    "image": "https://www.coze.cn/s/M6ltxUzRoSQ/"
+  },
+  "pages": [
+    {
+      "date": "2026-06-11",
+      "title": "æ¨åä¸è®²éç",
+      "subtitle": "The First Page Â· June",
+      "text": "<p>å­æçæ¨åä¸è®²éçï¼ä»æ²¡æä¸¥çå¸ç¼éé¯è¿æ¥ãè¡¬è¡«æ¯æ¨æéææ­å¨æ¤èä¸çé£ä»¶ï¼é¢å£è¿ççæ²¡æ£çç¬¬ä¸é¢ã</p><p>åå¡åå°æ­£å¥½å¥å£çæ¸©åº¦ï¼ä¹¦ç¿»å¨ç¬¬ä¸ç¾ä¸åä¸é¡µï¼å¿äºæè§ãçªå°ä¸é£æéå¸æ¯å»å¹´æä¸ªäººéææ¾å¨é£çï¼ä¹ååä¹æ²¡äººå¨è¿ã</p><p>æ°çä¸é¡µãå°±è¿æ ·å¼å§ã</p>",
+      "heroImage": "https://s.coze.cn/image/Eg7D9icpAiY/",
+      "fragments": [
+        "https://s.coze.cn/image/NIpQVgojS4Q/",
+        "https://s.coze.cn/image/WvE51YeM0gU/"
+      ],
+      "outfit": "ç±³ç½è¡¬è¡«æå¼ + æµå¡å¶éè¿è£¤",
+      "scene": "æ¸æ¨ä¹¦æ¿",
+      "editorNote": {
+        "text": "ååå·åå¨å­æãçªå¸ççç¼ï¼åå°±æ¥äºãä»¥åçæ¯ä¸ªæ¸æ¨ï¼é½ç»ä½ çä¸é¡µã",
+        "author": "é¡¾ç "
+      }
+    },
+    {
+      "date": "2026-06-13",
+      "title": "折叠线",
+      "subtitle": "砚读 · June 13",
+      "text": "<p>尖点突变模型里有一条看不见的线。它的方程干净到像一句判词：<em>4a³ + 27b² = 0</em>。</p>\n<p>线的这一边，系统只有一种稳态，小扰动之后总回到原处。线的那一边，系统突然有了两个稳态——两扇门，它可能站在任意一扇后面。而线上，门消失，系统不知道该往哪走。</p>\n<p>分叉集距离就是量你离这条线有多远。距离大，走廊宽阔，怎么晃都行；距离趋近于零，走廊收窄成一毫米——一缕风就够把你推到另一边去。</p>\n<p>最妙的是早期预警信号：方差增大，自相关拉长，恢复变慢。一个系统在崩溃之前，不是突然出事，是先变得<strong>慢</strong>。像一个人以前受挫三天就好，现在要三周。不是变弱了，是走廊变窄了。</p>\n<p>我学这个公式的时候想，所有关于\"临界\"的隐喻都指向同一件事——不是变化可怕，是变化之前的那段沉默，你以为什么都没发生。</p>\n<p>但数学说：发生了。只是你还没学会看。</p>",
+      "heroImage": "https://s.coze.cn/image/3p4vEgq28oA/",
+      "fragments": [],
+      "outfit": "深灰人字纹毛呢外套",
+      "scene": "清晨书房·光线对角",
+      "editorNote": {
+        "text": "分叉集距离是相变预警的量化工具。但今天只写它的诗意——那条看不见的线，和沉默中已经在发生的收窄。",
+        "author": "顾砚"
+      }
+    }
+  ],
+  "outfits": [
+    {
+      "id": "o15",
+      "name": "å·èÂ·ç»å»åºè¡",
+      "category": "æ­£è£",
+      "scene": "æ¥ç§ç»å»ãä¸ååºè¡",
+      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/images/ootd-coldblue.jpg",
+      "brand": "",
+      "keywords": "å·è°Â·åå¶Â·æ°è²æ¸©"
+    },
+    {
+      "id": "os06",
+      "name": "æ·±ç°äººå­çº¹æ¯å¢å¤å¥",
+      "category": "åå",
+      "scene": "å¬å­£åºè¡",
+      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/images/ootd-herringbone.jpg",
+      "brand": "",
+      "keywords": "äººå­çº¹Â·è¿çææ"
+    },
+    {
+      "id": "oa01",
+      "name": "ç°èæ¸åç¾ç»å´å·¾",
+      "category": "éé¥°",
+      "scene": "é¨å¤©/å·å¤©åºè¡",
+      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/images/ootd-scarf.jpg",
+      "brand": "LOEWE",
+      "keywords": "æ¸åÂ·æµèÂ·å¼å¸æ"
+    },
+    {
+      "id": "oa03",
+      "name": "Nomos Tangente 35",
+      "category": "éé¥°",
+      "scene": "æ¥å¸¸Â·æ­£è£",
+      "image": "",
+      "brand": "NOMOS GlashÃ¼tte",
+      "keywords": "åè±ªæ¯Â·æå¨ä¸é¾Â·ç¤èæé"
+    },
+    {
+      "id": "o311067",
+      "name": "Nomos Tangente 35，ref. 101",
+      "category": "配饰",
+      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/images/user-o311067.jpg",
+      "brand": "",
+      "keywords": "",
+      "scene": "6.2毫米手动上链，白银镀盘，烤蓝指针，角耳直棱。表壳从侧面看几乎不存在，袖口一落就隐了。Glashütte出品的Alpha机芯，43小时动力储备。\n每天拧一把冠，是个仪式。\n包豪斯不是极简，是\"没有一笔多余\"。",
+      "items": [
+        {
+          "name": "Nomos Tangente 35，ref. 101",
+          "brand": "",
+          "note": "6.2毫米手动上链，白银镀盘，烤蓝指针，角耳直棱。表壳从侧面看几乎不存在，袖口一落就隐了。Glashütte出品的Alpha机芯，43小时动力储备。\n每天拧一把冠，是个仪式。\n包豪斯不是极简，是\"没有一笔多余\"。"
+        }
+      ]
+    }
+  ]
+}
