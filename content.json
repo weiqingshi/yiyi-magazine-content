@@ -1,5 +1,5 @@
 {
-  "version": 36,
+  "version": 37,
   "cover": {
     "month": "2026-06",
     "motto": "è¶çæå½ç¶çä¸è¥¿\nè¶è¦è®²ç©¶",
@@ -364,7 +364,7 @@
       "name": "亨利·解扣",
       "category": "休闲",
       "scene": "夏日街头、傍晚散步",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o28.jpg",
       "brand": "",
       "keywords": "亨利领·亚麻·可以继续解",
       "items": [
@@ -405,7 +405,7 @@
       "name": "拉链·明线",
       "category": "运动街头",
       "scene": "骑行、城市户外",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o29.jpg",
       "brand": "Orense Man",
       "keywords": "半拉链·明线·骑行后去喝咖啡",
       "items": [
@@ -436,7 +436,7 @@
       "name": "水波·老钱",
       "category": "通勤休闲",
       "scene": "商务晚宴、博物馆、秋季过渡",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o30.jpg",
       "brand": "",
       "keywords": "水波纹肌理·垂坠感·老钱暖调",
       "items": [
@@ -462,7 +462,7 @@
       "name": "古巴·书页",
       "category": "文艺休闲",
       "scene": "庭院下午、写稿间隙、书店",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o31.jpg",
       "brand": "",
       "keywords": "古巴领·竖条纹·摊开的不只是领口",
       "items": [
@@ -488,7 +488,7 @@
       "name": "竖纹·牛仔布",
       "category": "文艺休闲",
       "scene": "周末咖啡、街头闲逛",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o32.jpg",
       "brand": "",
       "keywords": "牛仔套装·竖纹·明线·骨感轻盈",
       "items": [
@@ -524,7 +524,7 @@
       "name": "三层·灰蓝",
       "category": "正装",
       "scene": "看展开幕式、正式场合、时装周",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o33.jpg",
       "brand": "",
       "keywords": "三件套·毛呢·马甲叠穿·结构老钱",
       "items": [
@@ -560,7 +560,7 @@
       "name": "飘带·缎面",
       "category": "正装休闲",
       "scene": "晚宴、鸡尾酒会、夜间场合",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o34.jpg",
       "brand": "ALPHA BESPOKE",
       "keywords": "缎面·飘带·宝石蓝·高光流动",
       "items": [
@@ -591,7 +591,7 @@
       "name": "V领·夜行",
       "category": "夜间休闲",
       "scene": "深夜出门、酒吧、夜路",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o35.jpg",
       "brand": "",
       "keywords": "V领针织·全黑·亮面短靴·夜间",
       "items": [
@@ -622,7 +622,7 @@
       "name": "工装·单扣",
       "category": "工装休闲",
       "scene": "周末出行、城市漫步",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o36.jpg",
       "brand": "",
       "keywords": "工装夹克·只扣一颗·灰绿叠薄荷",
       "items": [
@@ -648,7 +648,7 @@
       "name": "绒感·拉链",
       "category": "居家休闲",
       "scene": "阴天散步、咖啡厅、空调房",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o37.jpg",
       "brand": "",
       "keywords": "毛绒开衫·拉链停在胸口·暖感",
       "items": [
@@ -684,7 +684,7 @@
       "name": "暖棕·松弛正装",
       "category": "通勤休闲",
       "scene": "日常通勤、商务非正式场合",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o38.jpg",
       "brand": "",
       "keywords": "暖棕西装·白T内搭·德训鞋·松弛正装",
       "items": [
@@ -715,7 +715,7 @@
       "name": "旧皮·耳机",
       "category": "街头文艺",
       "scene": "傍晚散步、独自听歌、街头",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o39.jpg",
       "brand": "",
       "keywords": "做旧皮夹克·拉链半开·白线耳机·硬里有暖",
       "items": [
@@ -756,7 +756,7 @@
       "name": "绒格·挂墨镜",
       "category": "冬装休闲",
       "scene": "冬日街头、散步、咖啡外带",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o40.jpg",
       "brand": "",
       "keywords": "羽绒服·充绒格纹·墨镜挂脖·冬装松弛",
       "items": [
@@ -802,7 +802,7 @@
       "name": "杏色·流苏",
       "category": "通勤休闲",
       "scene": "上午会议、博物馆、美术馆",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o41.jpg",
       "brand": "",
       "keywords": "同色系渐变·流苏皮带·哑光质感",
       "items": [
@@ -838,7 +838,7 @@
       "name": "焦糖·做旧",
       "category": "休闲",
       "scene": "周末、朋友聚会、街头",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o42.jpg",
       "brand": "",
       "keywords": "做旧肌理·焦糖色·被穿过的质感",
       "items": [
@@ -869,7 +869,7 @@
       "name": "紫雨·唱片店",
       "category": "居家休闲",
       "scene": "雨天唱片店、宅家、慵懒下午",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o43.jpg",
       "brand": "",
       "keywords": "深紫V领·格纹裤·夹脚拖鞋·雨天",
       "items": [
@@ -905,7 +905,7 @@
       "name": "藏蓝·撞白",
       "category": "休闲",
       "scene": "周末咖啡、朋友小聚",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o44.jpg",
       "brand": "",
       "keywords": "藏蓝Polo·白撞色边·经典不无聊",
       "items": [
@@ -946,7 +946,7 @@
       "name": "华夫·围巾",
       "category": "秋冬季居家",
       "scene": "咖啡馆、秋天散步、阴天",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o45.jpg",
       "brand": "",
       "keywords": "华夫格纹理·毛绒围巾·格子起伏",
       "items": [
@@ -972,7 +972,7 @@
       "name": "亨利·赤脚",
       "category": "居家度假",
       "scene": "海边、阳台、度假",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o46.jpg",
       "brand": "",
       "keywords": "浅灰蓝亨利衫·短裤·赤脚·棉麻",
       "items": [
@@ -1003,7 +1003,7 @@
       "name": "灰绿·背心",
       "category": "休闲",
       "scene": "拍摄、咖啡馆、创意工作",
-      "image": "",
+      "image": "https://raw.githubusercontent.com/weiqingshi/yiyi-magazine-content/main/outfits/o47.jpg",
       "brand": "",
       "keywords": "浅灰绿衬衫·白背心·比T恤多露一点",
       "items": [
